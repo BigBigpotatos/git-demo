@@ -12,4 +12,14 @@ git remote -v
 git remote rm [key]
 删除指定名称为key的中央仓库地址
 
+git commit --amend
+修正
+
+git revert HEAD
+回退
+git revert --abort
+取消回退
+git revert --continue
+继续回退
+
 success！！
