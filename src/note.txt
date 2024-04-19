@@ -11,3 +11,5 @@ git remote -v
 
 git remote rm [key]
 删除指定名称为key的中央仓库地址
+
+success！！
