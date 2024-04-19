@@ -1,1 +1,1 @@
-console.log('功能1');
+console.log('这是功能2');
